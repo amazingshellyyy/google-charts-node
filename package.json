@@ -1,20 +1,19 @@
 {
-  "name": "google-charts-node",
-  "version": "1.0.4",
+  "name": "@amazyyy/google-charts-node",
+  "version": "1.0.5",
   "description": "Headless image renderer for Google Charts",
   "main": "index.js",
-  "author": "Ian Webster",
-  "license": "GPL-3.0",
-  "homepage": "https://quickchart.io/",
+  "author": "amazyyy",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typpo/google-charts-node.git"
+    "url": "https://github.com/amazingshellyyy/google-charts-node.git"
   },
   "scripts": {
     "format": "prettier --single-quote --trailing-comma all --print-width 100 --write \"**/*.js\""
   },
   "dependencies": {
-    "puppeteer": "^4.0.0"
+    "puppeteer": "^19.1.1"
   },
   "devDependencies": {
     "@arkweid/lefthook": "^0.6.3",
